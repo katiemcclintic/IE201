@@ -1,0 +1,57 @@
+{
+  "version": "3.80.31058.0",
+  "course_id": "5aKNLNDxqjH",
+  "title": "M1.1_which type of eval",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "HAEC_M1.1 When to use impact evaluations"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5shyvN16cqI",
+      "title": "Level 1 slides",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6T95nC8yjr9",
+      "title": "formative evaluation",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6EDi6AfWacl",
+      "title": "Process eval",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6lyGwcQKWQ9",
+      "title": "What results level 2",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6CXg3rmtkCN",
+      "title": "Performance evaluation",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5lEzDhrQN2b",
+      "title": "Impact evaluation",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6ox3zokvtoR",
+      "title": "Cost analysis",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
